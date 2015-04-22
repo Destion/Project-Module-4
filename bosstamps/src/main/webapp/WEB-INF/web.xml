@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:web="http://java.sun.com/xml/ns/javaee" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd" id="WebApp_ID" version="3.0">
+  <display-name>di.webBookQuote</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    <welcome-file>index.htm</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>default.html</welcome-file>
+    <welcome-file>default.htm</welcome-file>
+    <welcome-file>default.jsp</welcome-file>
+  </welcome-file-list>
+  <servlet>
+    <description>BookQuote servlet</description>
+    <display-name>BookQuote</display-name>
+    <servlet-name>BookQuote</servlet-name>
+    <servlet-class>nl.utwente.di.BookQuote</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>BookQuote</servlet-name>
+    <url-pattern>/bookQuote</url-pattern>
+  </servlet-mapping>
+</web-app>
