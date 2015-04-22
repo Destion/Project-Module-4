@@ -1,4 +1,4 @@
-# Project-Module-4 Bosstamps
+# Project-Module-4 bosstamps
 Bosstamps is a one man company that sells postage stamps on eBay.  
 We like to create a java web applet that creates an easy overview and management of the sales. 
 
