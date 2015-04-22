@@ -1,6 +1,11 @@
 # Project-Module-4 Bosstamps
+Bosstamps is a one man company that sells postage stamps on eBay.  
+We like to create a java web applet that creates an easy overview and management of the sales. 
 
-
-# Trello
+## Trello
 We use Trello as a online substitute of a Scrum board  
 link: https://trello.com/b/0MB9QiLD/project-module-4
+
+## Google Drive
+We use google drive as a online file management system that contains most project documents
+link:
